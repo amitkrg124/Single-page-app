@@ -162,7 +162,7 @@ export default function HeroSection() {
           </div>
           <div className="hero__info">
             <PText>
-              I am working as a freelance web designer and developer for 2
+              I am working as a starterrrrr web designer and developer for 2
               years. I love to design and make new web experiences for the
               people.
             </PText>
